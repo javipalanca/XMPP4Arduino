@@ -1,4 +1,4 @@
-## Arduino_XMPP_IoT
+## XMPP4Arduino
 
 Introduction
 ------------
